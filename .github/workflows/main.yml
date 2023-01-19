@@ -1,4 +1,4 @@
-name: FirstName
+name: Second tName
 
 on: 
   workflow_dispatch: #manual start
