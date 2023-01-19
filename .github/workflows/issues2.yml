@@ -6,7 +6,7 @@ on:
 
   types:
 
-   - opened
+   - opened:
 
 permissions: write-all
 jobs:
